@@ -9,7 +9,9 @@ Python is running at version <u>3.9.16</u>. Other Python package versions can be
 
 It is recommended to create a virtual environment with the above version of Python using **conda**, and install the python packages in requirements.txt using **pip** in the virtual environment.
 
+## Hyperparametes Setting
 
+![alt text](chrome_uO1HPEZlYD.png)
 
 ## Running a model
 
